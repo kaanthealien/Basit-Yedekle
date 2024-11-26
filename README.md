@@ -19,3 +19,9 @@ Bu bash scripti, `rsync` komutunu kullanarak dosya veya klasörleri yedeklemeniz
 **Örnek Kullanım**
 ```bash
 ./yedekleyici.sh
+```
+1-Yerel Yedekleme
+![yerel](https://github.com/user-attachments/assets/25b9d578-5bf3-42aa-817f-fd70810ed8ef)
+
+2-Uzak Yedekleme
+![uzak](https://github.com/user-attachments/assets/56124b86-6817-4a1a-9a93-58979020a23f)
